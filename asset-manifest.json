@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/mineact/static/css/main.c80ad70b.chunk.css",
-    "main.js": "/mineact/static/js/main.b5f2a67b.chunk.js",
-    "main.js.map": "/mineact/static/js/main.b5f2a67b.chunk.js.map",
-    "runtime-main.js": "/mineact/static/js/runtime-main.86b0300e.js",
-    "runtime-main.js.map": "/mineact/static/js/runtime-main.86b0300e.js.map",
-    "static/js/2.78ef36e0.chunk.js": "/mineact/static/js/2.78ef36e0.chunk.js",
-    "static/js/2.78ef36e0.chunk.js.map": "/mineact/static/js/2.78ef36e0.chunk.js.map",
+    "main.js": "/mineact/static/js/main.9e08462b.chunk.js",
+    "main.js.map": "/mineact/static/js/main.9e08462b.chunk.js.map",
+    "runtime-main.js": "/mineact/static/js/runtime-main.5e6ae8bc.js",
+    "runtime-main.js.map": "/mineact/static/js/runtime-main.5e6ae8bc.js.map",
+    "static/js/2.0cb65655.chunk.js": "/mineact/static/js/2.0cb65655.chunk.js",
+    "static/js/2.0cb65655.chunk.js.map": "/mineact/static/js/2.0cb65655.chunk.js.map",
     "index.html": "/mineact/index.html",
-    "precache-manifest.d5773af8267715f3490d8169d1d082c9.js": "/mineact/precache-manifest.d5773af8267715f3490d8169d1d082c9.js",
+    "precache-manifest.beb605df7902fe941ab42fcc25ae6db1.js": "/mineact/precache-manifest.beb605df7902fe941ab42fcc25ae6db1.js",
     "service-worker.js": "/mineact/service-worker.js",
     "static/css/main.c80ad70b.chunk.css.map": "/mineact/static/css/main.c80ad70b.chunk.css.map",
-    "static/js/2.78ef36e0.chunk.js.LICENSE": "/mineact/static/js/2.78ef36e0.chunk.js.LICENSE",
-    "static/media/logo.svg": "/mineact/static/media/logo.5d5d9eef.svg"
+    "static/js/2.0cb65655.chunk.js.LICENSE": "/mineact/static/js/2.0cb65655.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.86b0300e.js",
-    "static/js/2.78ef36e0.chunk.js",
+    "static/js/runtime-main.5e6ae8bc.js",
+    "static/js/2.0cb65655.chunk.js",
     "static/css/main.c80ad70b.chunk.css",
-    "static/js/main.b5f2a67b.chunk.js"
+    "static/js/main.9e08462b.chunk.js"
   ]
 }
